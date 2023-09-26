@@ -1,4 +1,4 @@
 print('Hello Python and GIT')
 print("This is another line")
 a = 3
-b = 4
+b = 4.5
